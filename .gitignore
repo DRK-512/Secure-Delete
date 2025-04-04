@@ -1,2 +1,3 @@
 **/.vscode/
-sec-rm
+secure-delete
+**/build/
